@@ -15,7 +15,6 @@
     6. Limitations demo (COPY INTO, clustering)
 =============================================================================
 */
-
 -- ============================================
 -- SETUP
 -- ============================================
@@ -108,8 +107,8 @@ SELECT 'STORED'  AS TYPE, * FROM CUSTOMER_STORED  WHERE CUSTOMER_ID = 'C001';
 --    Change LOCATION_SUMMARY format — no backfill needed!
 -- ============================================
 
-ALTER TABLE CUSTOMER_VIRTUAL MODIFY COLUMN LOCATION_SUMMARY 
-    SET DATA TYPE STRING AS (COUNTRY || ' > ' || STATE || ' > ' || CITY);
+ALTER TABLE CUSTOMER_VIRTUAL DROP COLUMN LOCATION_SUMMARY;
+ALTER TABLE CUSTOMER_VIRTUAL ADD COLUMN LOCATION_SUMMARY STRING AS (COUNTRY || ' > ' || STATE || ' > ' || CITY);
 
 SELECT CUSTOMER_ID, LOCATION_SUMMARY FROM CUSTOMER_VIRTUAL;
 
