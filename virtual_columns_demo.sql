@@ -4,7 +4,7 @@
   
   Author:  Malaya Kumar Padhi
   LinkedIn: https://www.linkedin.com/in/mkpadhi/
-  GitHub:  https://github.com/mkpadhi/snowflake-virtual-columns-demo
+  GitHub:  https://github.com/Techy-Malay/snowflake-virtual-columns-demo
   
   This script demonstrates:
     1. Creating tables with virtual columns
