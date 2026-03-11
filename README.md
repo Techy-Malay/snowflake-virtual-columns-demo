@@ -29,7 +29,7 @@ snowflake-virtual-columns-demo/
 ├── Scenario.md                  ← Real-world e-commerce use case
 ├── Quick_Reference.md           ← Decision matrix & cheat sheet
 ├── LinkedIn_Post.md             ← Technical article on virtual columns
-└── Posting_Strategy.md          ← Content strategy & carousel guide
+
 ```
 
 ---
