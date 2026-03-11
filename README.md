@@ -1,0 +1,1 @@
+# snowflake-virtual-columns-demo
