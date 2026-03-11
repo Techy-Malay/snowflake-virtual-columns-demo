@@ -69,4 +69,4 @@ ALTER TABLE t DROP COLUMN col;
 ---
 
 **Author:** [Malaya Kumar Padhi](https://www.linkedin.com/in/mkpadhi/) | Senior Solution Architect — Data & AI Platforms  
-*Part of the [Snowflake SCD2 Architect Lab](https://github.com/mkpadhi/snowflake-virtual-columns-demo) series.*
+*Part of the [Snowflake SCD2 Architect Lab](https://github.com/Techy-Malay/snowflake-virtual-columns-demo) series.*
