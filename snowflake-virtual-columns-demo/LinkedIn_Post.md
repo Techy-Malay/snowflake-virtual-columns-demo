@@ -1,5 +1,7 @@
 # Snowflake Virtual Columns — The Hidden Feature Most Engineers Overlook
 
+**Author:** [Malaya Kumar Padhi](https://www.linkedin.com/in/mkpadhi/) | Senior Solution Architect — Data & AI Platforms
+
 ---
 
 ## LinkedIn Post
@@ -104,5 +106,6 @@ What's your experience with virtual columns in Snowflake? Have you found a creat
 
 ---
 
-*Author: [Your Name]*
-*Connect with me for more Snowflake tips and data engineering insights.*
+**Author:** [Malaya Kumar Padhi](https://www.linkedin.com/in/mkpadhi/)  
+*Follow me on [LinkedIn](https://www.linkedin.com/in/mkpadhi/) for more Snowflake architecture tips and data engineering insights.*  
+*GitHub: [snowflake-virtual-columns-demo](https://github.com/mkpadhi/snowflake-virtual-columns-demo)*

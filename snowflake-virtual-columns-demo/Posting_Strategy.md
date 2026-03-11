@@ -1,5 +1,7 @@
 # LinkedIn Posting Strategy — Virtual Columns Post
 
+**Author:** [Malaya Kumar Padhi](https://www.linkedin.com/in/mkpadhi/) | Senior Solution Architect — Data & AI Platforms
+
 ---
 
 ## LinkedIn Formatting Rules (What Works & What Doesn't)
@@ -131,7 +133,7 @@ Create a PDF with these slides (use Canva, Google Slides, or PowerPoint):
 
 ```
 Full demo SQL and real-world scenario available on GitHub:
-[YOUR GITHUB LINK]
+https://github.com/mkpadhi/snowflake-virtual-columns-demo
 
 Covers:
 → Creating virtual columns
@@ -172,15 +174,18 @@ Tag each post as part of the series to build a following.
 ## File Checklist for GitHub Repository
 
 ```
-snowflake-scd2-architect-lab/
-├── linkedin-virtual-columns/
-│   ├── LinkedIn_Post.md          ← Full formatted post (reference)
-│   ├── Posting_Strategy.md       ← THIS FILE
-│   ├── Scenario.md               ← Real-world e-commerce scenario
-│   ├── Quick_Reference.md        ← Decision matrix + cheat sheet
-│   └── virtual_columns_demo.sql  ← Runnable SQL demo
+snowflake-virtual-columns-demo/
+├── README.md                    ← GitHub landing page
+├── LinkedIn_Post.md             ← Full formatted post (reference)
+├── Posting_Strategy.md          ← THIS FILE
+├── Scenario.md                  ← Real-world e-commerce scenario
+├── Quick_Reference.md           ← Decision matrix + cheat sheet
+└── virtual_columns_demo.sql     ← Runnable SQL demo
 ```
 
 ---
 
-*Strategy prepared for the Snowflake SCD2 Architect Lab series.*
+---
+
+**Author:** [Malaya Kumar Padhi](https://www.linkedin.com/in/mkpadhi/)  
+*Part of the [Snowflake SCD2 Architect Lab](https://github.com/mkpadhi/snowflake-virtual-columns-demo) series.*
